@@ -1,1 +1,1 @@
-# igem
+# Resources for iGEM Computational Team
